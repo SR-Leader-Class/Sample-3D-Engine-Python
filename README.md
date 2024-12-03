@@ -1,1 +1,1 @@
-A Sample 3D engine for python learning.
+A Sample 3D engine for pygame learning.
